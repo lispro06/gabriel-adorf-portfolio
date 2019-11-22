@@ -31,11 +31,11 @@ function About() {
       rightColumn={
         <Fragment>
           <Big>
-            Hi. I'm Gabriel, a UI and UX designer based in&nbsp;Berlin. I bring
-            ideas to life with design and&nbsp;code.
+            Welcome. FIB, a IT consulting based in&nbsp;Korea. I bring
+            ideas to life with security and&nbsp;source code.
           </Big>
           <p>
-            In my work I strive to optimize the aesthetic value and usability of
+            In our work I strive to optimize the aesthetic value and usability of
             products without losing sight of the technical challenges and
             limitations.
           </p>
@@ -45,8 +45,8 @@ function About() {
             festivals with <Link to="/kellerkind">Kellerkind</Link>.
           </p>
           <p style={{ marginBottom: 0 }}>
-            Outside of work I'm passionate about my family, climbing and riding
-            all kinds of boards on roads, water and snow.
+            Outside of work We're passionate about my country, educate and studying
+            all kinds of region on parts, forensic and mobile apps.
           </p>
         </Fragment>
       }
